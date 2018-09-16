@@ -1,8 +1,8 @@
 name: sider_bar
 description: sider bar for listview like ios contact list
 version: 0.0.1
-author:
-homepage:
+author: brzhang <bravekingzhang@qq.com>
+homepage: https://cloud.tencent.com/developer/column/3776
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
