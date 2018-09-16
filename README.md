@@ -43,3 +43,6 @@ import 'package:sider_bar/sider_bar.dart';
   }
 ```
 
+### capture
+
+![示例](capture.gif)
