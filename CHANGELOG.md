@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.1.0] - 2018.09,18
 
-* TODO: Describe initial release.
+* add: sidebar引入.
